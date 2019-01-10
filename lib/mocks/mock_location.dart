@@ -1,5 +1,5 @@
-import 'package:lesson01/models/location.dart';
-import 'package:lesson01/models/location_fact.dart';
+import 'package:TourismAndCo/models/location.dart';
+import 'package:TourismAndCo/models/location_fact.dart';
 
 class MockLocation extends Location {
   static final List<Location> items = [

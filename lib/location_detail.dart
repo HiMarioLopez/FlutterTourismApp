@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:lesson01/models/location.dart';
-import 'package:lesson01/styles.dart';
-import 'package:lesson01/components/location_tile.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:lesson01/components/default_app_bar.dart';
-import 'package:lesson01/components/banner_image.dart';
+import 'package:TourismAndCo/styles.dart';
+import 'package:TourismAndCo/models/location.dart';
+import 'package:TourismAndCo/components/location_tile.dart';
+import 'package:TourismAndCo/components/banner_image.dart';
+import 'package:TourismAndCo/components/default_app_bar.dart';
 
 const BannerImageHeight = 300.0;
 const BodyVerticalPadding = 20.0;

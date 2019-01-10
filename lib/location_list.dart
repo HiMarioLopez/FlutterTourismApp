@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:lesson01/components/location_tile.dart';
-import 'package:lesson01/location_detail.dart';
-import 'package:lesson01/models/location.dart';
-import 'package:lesson01/styles.dart';
+import 'package:TourismAndCo/components/location_tile.dart';
+import 'package:TourismAndCo/location_detail.dart';
+import 'package:TourismAndCo/models/location.dart';
+import 'package:TourismAndCo/styles.dart';
 import 'dart:async';
-import 'package:lesson01/components/default_app_bar.dart';
-import 'package:lesson01/components/banner_image.dart';
+import 'package:TourismAndCo/components/default_app_bar.dart';
+import 'package:TourismAndCo/components/banner_image.dart';
 
 const ListItemHeight = 245.0;
 const ListItemWidth = 200;

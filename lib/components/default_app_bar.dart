@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lesson01/styles.dart';
+import 'package:TourismAndCo/styles.dart';
 
 class DefaultAppBar extends AppBar {
   @override

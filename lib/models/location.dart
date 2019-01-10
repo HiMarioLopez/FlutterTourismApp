@@ -1,5 +1,5 @@
-import 'package:lesson01/endpoint.dart';
-import 'package:lesson01/models/location_fact.dart';
+import 'package:TourismAndCo/endpoint.dart';
+import 'package:TourismAndCo/models/location_fact.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'dart:async';
 import 'dart:convert';

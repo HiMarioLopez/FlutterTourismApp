@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:image_test_utils/image_test_utils.dart';
-import 'package:lesson01/app.dart';
-import 'package:lesson01/mocks/mock_location.dart';
+import 'package:TourismAndCo/app.dart';
+import 'package:TourismAndCo/mocks/mock_location.dart';
 
 void main() {
   testWidgets('test app startup', (WidgetTester tester) async {

@@ -1,5 +1,5 @@
 import 'package:test_api/test_api.dart';
-import 'package:lesson01/models/location.dart';
+import 'package:TourismAndCo/models/location.dart';
 
 void main() {
   test('test /locations and /locations/:id', () async {

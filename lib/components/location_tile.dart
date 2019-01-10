@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lesson01/models/location.dart';
-import 'package:lesson01/styles.dart';
+import 'package:TourismAndCo/models/location.dart';
+import 'package:TourismAndCo/styles.dart';
 
 const LocationTileHeight = 100.0;
 

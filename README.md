@@ -1,6 +1,6 @@
 # Tourism & Co.
 
-A new Flutter project.
+A tourism catalog app written with Flutter.
 
 ## Getting Started
 
